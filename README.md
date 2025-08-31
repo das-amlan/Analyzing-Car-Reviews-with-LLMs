@@ -1,6 +1,8 @@
+![image](car.jpeg)
+
 # Analyzing Car Reviews with LLMs
 
-This project prototypes a chatbot application for "Car-ing is sharing," an auto dealership. The chatbot utilizes various pre-trained Hugging Face Large Language Models (LLMs) to perform several tasks related to car reviews, aiming to assist both customers and human agents.
+This project prototypes a chatbot application for "Car-ing is sharing" an auto dealership. The chatbot utilizes various pre-trained Hugging Face Large Language Models (LLMs) to perform several tasks related to car reviews, aiming to assist both customers and human agents.
 
 ## Project Goals
 
